@@ -1,0 +1,2 @@
+# Searx
+Private Search Engine
